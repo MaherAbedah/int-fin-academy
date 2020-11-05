@@ -6,18 +6,18 @@
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "International Fin Academy is an institution specialized in exporting the Finnish educational system and experience to other parts of the world. Located at the beautiful city of Kokkola we have connections to big number of proffessional educators and advisors all over the world",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "High quality services",
+            "Better understanding of regional needs",
+            "Experts with long experience",
+            "Free support for ongoing projects"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "Affordable costs ",
+            "Ability to help all education stages",
+            "Special attention to details",
+            "Focus on early education "
         ]
     },
     "Services": [{
