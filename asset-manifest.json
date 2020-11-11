@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/int-fin-academy/static/css/main.69eda509.chunk.css",
+    "main.js": "/int-fin-academy/static/js/main.13393703.chunk.js",
+    "main.js.map": "/int-fin-academy/static/js/main.13393703.chunk.js.map",
+    "runtime-main.js": "/int-fin-academy/static/js/runtime-main.a18e3255.js",
+    "runtime-main.js.map": "/int-fin-academy/static/js/runtime-main.a18e3255.js.map",
+    "static/js/2.c318a5a9.chunk.js": "/int-fin-academy/static/js/2.c318a5a9.chunk.js",
+    "static/js/2.c318a5a9.chunk.js.map": "/int-fin-academy/static/js/2.c318a5a9.chunk.js.map",
+    "index.html": "/int-fin-academy/index.html",
+    "precache-manifest.55b16b1b8405e03a86d58cc327c174fe.js": "/int-fin-academy/precache-manifest.55b16b1b8405e03a86d58cc327c174fe.js",
+    "service-worker.js": "/int-fin-academy/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/int-fin-academy/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.c318a5a9.chunk.js.LICENSE.txt": "/int-fin-academy/static/js/2.c318a5a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18e3255.js",
+    "static/js/2.c318a5a9.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.13393703.chunk.js"
+  ]
+}
