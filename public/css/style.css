@@ -87,6 +87,13 @@ hr {
   color: #333;
   text-transform: uppercase;
 }
+#menu img.img-logo {
+  max-width: 350px;
+  max-height: 80px;
+  margin-top: -30px;
+  border-left: 0;
+  top: 0;
+}
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;

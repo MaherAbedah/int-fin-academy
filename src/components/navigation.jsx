@@ -19,8 +19,8 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              International Fin Academy
-              {/* <img src="img/Logo-trans.png" className="img-responsive" alt="logo"/> */}
+              {/* International Fin Academy */}
+              <img src="img/logo-350-150.png" className="img-logo" alt="logo"/>
             </a>{" "}
           </div>
 
@@ -29,11 +29,11 @@ export class Navigation extends Component {
             id="bs-example-navbar-collapse-1"
           >
             <ul className="nav navbar-nav navbar-right">
-              <li>
+              {/* <li>
                 <a href="#features" className="page-scroll">
                   Features
                 </a>
-              </li>
+              </li> */}
               <li>
                 <a href="#about" className="page-scroll">
                   About
