@@ -1,9 +1,7 @@
 {
     "Header": {
-
         "title": "International Fin Academy",
         "paragraph": "We are proffessionals in exporting and applying the Finnish education success to other parts of the world ."
-
     },
     "About": {
         "paragraph": "International Fin Academy is an institution specialized in exporting the Finnish educational system and experience to other parts of the world. Located at the beautiful city of Kokkola we have connections to big number of proffessional educators and advisors all over the world",
@@ -20,7 +18,8 @@
             "Focus on early education "
         ]
     },
-    "Services": [{
+    "Services": [
+        {
             "icon": "fa fa-building",
             "name": "New educational institute",
             "text": "We can assist you planning to start new education project depending on the finest education systems in Europe. With the help of great experts from Finland"
@@ -41,7 +40,8 @@
             "text": "INternational Finn academy has many regional advisors in all the major countries we are targering (Middle-East, China, India.... ). Those advisors can assist our clients in local and international languages"
         }
     ],
-    "Testimonials": [{
+    "Testimonials": [
+        {
             "img": "img/testimonials/01.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
             "name": "John Doe"
@@ -72,16 +72,18 @@
             "name": "Johnathan Doe"
         }
     ],
-    "Team": [{
+    "Team": [
+        {
             "img": "img/team/01.jpeg",
             "name": "Muntaser Alhamad",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpeg",
-            "name": "Ameed A. Ali",
-            "job": "Regional advisor - Middle-east"
-        }, {
+            "name": "Mohammad Sajjad",
+            "job": "Regional advisor - Pakistan"
+        },
+        {
             "img": "img/team/03.jpeg",
             "name": "May Elsiddig",
             "job": "Regional advisor - China"
@@ -100,7 +102,8 @@
         "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
-    "Features": [{
+    "Features": [
+        {
             "icon": "fa fa-comments-o",
             "title": "Lorem ipsum",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
